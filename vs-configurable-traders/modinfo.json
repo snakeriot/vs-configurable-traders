@@ -1,0 +1,10 @@
+{
+    "type": "code",
+    "modid": "vs-configurable-traders",
+    "name": "Configurable Traders",
+    "authors": [
+        "dKosher"
+    ],
+    "description": "Ability to easily configure trader taxes and delivery price.",
+    "version": "1.0.0"
+}

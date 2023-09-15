@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "CakeBuild\CakeBuild.csproj", "{9F7663AB-9383-4343-85F7-CCD8C4043ECC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vs-configurable-traders", "vs-configurable-traders\vs-configurable-traders.csproj", "{316EF8E2-CCE0-4AC9-9A09-4D3B92AD55E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F7663AB-9383-4343-85F7-CCD8C4043ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7663AB-9383-4343-85F7-CCD8C4043ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7663AB-9383-4343-85F7-CCD8C4043ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7663AB-9383-4343-85F7-CCD8C4043ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{316EF8E2-CCE0-4AC9-9A09-4D3B92AD55E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316EF8E2-CCE0-4AC9-9A09-4D3B92AD55E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316EF8E2-CCE0-4AC9-9A09-4D3B92AD55E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316EF8E2-CCE0-4AC9-9A09-4D3B92AD55E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F0A6BDE-C8C1-460D-9EEA-C7FF81DFB769}
+	EndGlobalSection
+EndGlobal
